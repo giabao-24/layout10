@@ -1,0 +1,184 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: lightyellow;
+}
+.header {
+  width: 100%;
+  height: 110px;
+}
+.headerMenus {
+  width: 20%;
+  height: 110px;
+  text-align: center;
+  font-size: 25px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: black;
+  padding-top: 20px;
+  float: left;
+}
+.headerBlogArticle {
+  width: 15%;
+  height: 110px;
+  text-align: center;
+  font-size: 25px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: black;
+  padding-top: 20px;
+  float: left;
+}
+.headerLogo {
+  width: 30%;
+  height: 100px;
+  text-align: center;
+  font-size: 30px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: black;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  background-color: yellow;
+  float: left;
+  padding-top: 20px;
+}
+.headerFaq {
+  width: 15%;
+  height: 110px;
+  text-align: center;
+  font-size: 25px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: black;
+  padding-top: 20px;
+  float: left;
+}
+.headerContactUs {
+  width: 20%;
+  height: 110px;
+  text-align: center;
+  font-size: 25px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: black;
+  padding-top: 20px;
+  float: left;
+} 
+.body {
+  float: left;
+  height: 460px;
+  width: 100%;
+}
+.TextBody {
+  height: 400px;
+  float: left;
+  width: 40%;
+}
+.BlueTextBody {
+  height: 110px;
+  float: left;
+  width: 100%;
+  font-size: 45px;
+  font-family:Arial, Helvetica, sans-serif ;
+  color: darkslategray;
+  text-align: center;
+  line-height: 0.3;
+}
+.BlackTextBody {
+  height: 120px;
+  float: left;
+  width: 100%;
+  font-size: 25px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: black;
+  text-align: center;
+  line-height: 0.2;
+  padding-top: 1.5cm;
+}
+.Button {
+  height: 60px;
+  width: 100%;
+  float: left;
+}
+.Button1 {
+  height: 60px;
+  width: 50%;
+  float: left;
+}
+.Button2 {
+  height: 60px;
+  width: 50%;
+  float: left;
+}
+.TextLet {
+  padding-top: 15px;
+  width: 60%;
+  height: 40px;
+  float: left;
+  font-size: 25px;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: left;
+  padding-left: 40px;
+}
+.Input {
+  width: 55%;
+  height: 40px;
+  float: left;
+  font-size: 25px;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: left;
+  padding-left: 40px;
+}
+.ImageBody {
+  height: 460px;
+  width: 60%;
+  float: left;
+}
+.Image1 {
+  height: 200px;
+  width: 45%;
+  float: left;
+  margin-left: 40px;
+  margin-right: 10px;
+  background-image: url('https://images.pexels.com/photos/1279330/pexels-photo-1279330.jpeg?auto=compress&cs=tinysrgb&w=600');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+.Image2 {
+  height: 200px;
+  width: 45%;
+  float: left;
+  background-image: url('https://images.pexels.com/photos/699953/pexels-photo-699953.jpeg?auto=compress&cs=tinysrgb&w=600');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+.Image3 {
+  height: 200px;
+  width: 35%;
+  float: left;
+  margin-top: 15px;
+  background-image: url('https://images.pexels.com/photos/262959/pexels-photo-262959.jpeg?auto=compress&cs=tinysrgb&w=600');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+.Image4 {
+  height: 200px;
+  width: 40%;
+  float: left;
+  background-image: url('https://images.pexels.com/photos/1410235/pexels-photo-1410235.jpeg?auto=compress&cs=tinysrgb&w=600');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  margin-top: 15px;
+  margin-left: 0.1cm;
+}
+.Image5 {
+  height: 200px;
+  width: 20%;
+  float: left;
+  background-image: url('https://images.pexels.com/photos/718742/pexels-photo-718742.jpeg?auto=compress&cs=tinysrgb&w=600');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  margin-top: 15px;
+  margin-left: 0.2cm;
+}
